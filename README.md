@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas Felipe! 👋
 
-Atualmente, estou cursando o 3° período no Centro Universitário FAMINAS, em Muriaé, Minas Gerais. Sou apaixonado por aprender novas linguagens de programação e tecnologias, e estou sempre em busca de desafios e oportunidades para expandir minhas habilidades.
+Atualmente, estou cursando o 4° período no Centro Universitário FAMINAS, em Muriaé, Minas Gerais. Sou apaixonado por aprender novas linguagens de programação e tecnologias, e estou sempre em busca de desafios e oportunidades para expandir minhas habilidades.
 
 ---
 
