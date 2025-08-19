@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas no Centro Universitário FAMINAS, em Muriaé – MG. Tenho grande entusiasmo por tecnologia e sou movido pela curiosidade em aprender novas linguagens de programação e ferramentas. Estou constantemente em busca de desafios que me permitam aplicar e expandir meus conhecimentos, contribuindo de forma significativa para projetos inovadores e ambientes colaborativos.</p>
+<p align="left">Sou estudante do 5º período de Análise e Desenvolvimento de Sistemas no Centro Universitário FAMINAS, em Muriaé – MG. Tenho grande entusiasmo por tecnologia e sou movido pela curiosidade em aprender novas linguagens de programação e ferramentas. Estou constantemente em busca de desafios que me permitam aplicar e expandir meus conhecimentos, contribuindo de forma significativa para projetos inovadores e ambientes colaborativos.</p>
 
 ###
 
